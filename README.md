@@ -1,7 +1,7 @@
 # precalhelp
 CLI interface that automates some repetitive tasks inherent in Precal/Trig homework.
 
-By github user erik-d-w
+By github user ErikWhiting
 
 November 17, 2015
 
